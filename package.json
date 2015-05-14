@@ -1,0 +1,29 @@
+{
+  "name": "bytespace-secondary",
+  "version": "0.0.0",
+  "description": "Secondary indexes with bytewise subspaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deanlandolt/bytespace-secondary.git"
+  },
+  "keywords": [
+    "secondary",
+    "index",
+    "leveldb",
+    "levelup",
+    "bytewise",
+    "bytespace",
+    "subspace",
+    "sublevel"
+  ],
+  "author": "Dean Landolt <dean@deanlandolt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanlandolt/bytespace-secondary/issues"
+  },
+  "homepage": "https://github.com/deanlandolt/bytespace-secondary"
+}
